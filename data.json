@@ -7,8 +7,8 @@
    "quymo": "290.18 HA",
    "chucnangquyhoach": "Khu dân cư đô thị mới",
    "chitieuquyhoach": "MĐXD: 5-45%.\nTầng cao: 1-30 tầng.\nHSSDĐ: 0,05-6,8",
-   "image": "./images/vitri1.PNG",
-   "video": "./videos/1.mp4"
+   "image": "./asset/images/vitri/1.PNG",
+   "video": "./asset/videos/1.mp4"
  },
  {
    "STT": 2,
@@ -18,8 +18,8 @@
    "quymo": "17.58 HA",
    "chucnangquyhoach": "Khu dân cư đô thị mới",
    "chitieuquyhoach": "MĐXD: 30-60%.\nTầng cao: 1-15 tầng. \nHSSDĐ: 2-4,5.\n",
-   "image": "./images/vitri2.PNG",
-   "video": "./videos/2.mp4"
+   "image": "./asset/images/vitri/2.PNG",
+   "video": "./asset/videos/2.mp4"
  },
  {
    "STT": 3,
@@ -29,8 +29,8 @@
    "quymo": "2.2 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất dân cư xây dựng mới",
    "chitieuquyhoach": "MĐXD: 40%.\nTầng cao: 1-5 tầng. \nHSSDĐ: 2\n",
-   "image": "./images/vitri3.PNG",
-   "video": "./videos/3.mp4"
+   "image": "./asset/images/vitri/3.PNG",
+   "video": "./asset/videos/3.mp4"
  },
  {
    "STT": 4,
@@ -40,8 +40,8 @@
    "quymo": "6.10 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất nhà ở cao tầng thương mại dịch vụ\n",
    "chitieuquyhoach": "MĐXD: 35%.\nTầng cao: 15-25 tầng. \nHSSDĐ: 5\n",
-   "image": "./images/vitri4.PNG",
-   "video": "./videos/4.mp4"
+   "image": "./asset/images/vitri/4.PNG",
+   "video": "./asset/videos/4.mp4"
  },
  {
    "STT": 5,
@@ -51,8 +51,8 @@
    "quymo": "10.20 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất nhà ở cao tầng kết hợp\ndịch vụ thương mại\n",
    "chitieuquyhoach": "MĐXD: 30-50%.\nTầng cao: 4-25 tầng. \nHSSDĐ: 2-5\n",
-   "image": "./images/vitri5.PNG",
-   "video": "./videos/5.mp4"
+   "image": "./asset/images/vitri/5.PNG",
+   "video": "./asset/videos/5.mp4"
  },
  {
    "STT": 6,
@@ -62,8 +62,8 @@
    "quymo": "124.44 HA",
    "chucnangquyhoach": "Khu dân cư đô thị mới",
    "chitieuquyhoach": "MĐXD: 5-45%.\nTầng cao: 1-38 tầng. \nHSSDĐ:0,05-6,8\n",
-   "image": "./images/vitri6.PNG",
-   "video": "./videos/6.mp4"
+   "image": "./asset/images/vitri/6.PNG",
+   "video": "./asset/videos/6.mp4"
  },
  {
    "STT": 7,
@@ -73,8 +73,8 @@
    "quymo": "89.30 HA",
    "chucnangquyhoach": "Khu dân cư đô thị mới",
    "chitieuquyhoach": "MĐXD: 5-45%.\nTầng cao: 1-10 tầng. \nHSSDĐ: 0,05-4,0\n",
-   "image": "./images/vitri7.PNG",
-   "video": "./videos/7.mp4"
+   "image": "./asset/images/vitri/7.PNG",
+   "video": "./asset/videos/7.mp4"
  },
  {
    "STT": 8,
@@ -84,8 +84,8 @@
    "quymo": "100.84 HA",
    "chucnangquyhoach": "Khu dân cư đô thị mới",
    "chitieuquyhoach": "MĐXD: 5-45%.\nTầng cao: 1-10 tầng. \nHSSDĐ: 0,05-4,0\n",
-   "image": "./images/vitri8.PNG",
-   "video": "./videos/8.mp4"
+   "image": "./asset/images/vitri/8.PNG",
+   "video": "./asset/videos/8.mp4"
  },
  {
    "STT": 9,
@@ -95,8 +95,8 @@
    "quymo": "45.65 HA",
    "chucnangquyhoach": "Đất dân cư xây dựng mới, đất hỗn hợp, đất hành chính, đất giáo dục, công viên cây xanh\n",
    "chitieuquyhoach": "MĐXD: 5-60%.\nTầng cao: 1-18 tầng. \nHSSDĐ: 0,05-5,0\n",
-   "image": "./images/vitri9.PNG",
-   "video": "./videos/9.mp4"
+   "image": "./asset/images/vitri/9.PNG",
+   "video": "./asset/videos/9.mp4"
  },
  {
    "STT": 10,
@@ -106,8 +106,8 @@
    "quymo": "0.91 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất thương mại dịch vụ ",
    "chitieuquyhoach": "MĐXD: 40%.\nTầng cao: 1-2 tầng. \nHSSDĐ: 0,8\n",
-   "image": "./images/vitri10.PNG",
-   "video": "./videos/10.mp4"
+   "image": "./asset/images/vitri/10.PNG",
+   "video": "./asset/videos/10.mp4"
  },
  {
    "STT": 11,
@@ -117,8 +117,8 @@
    "quymo": "61.2 HA",
    "chucnangquyhoach": "Đất cụm công nghiệp",
    "chitieuquyhoach": "Xác định trong quá trình lập dự án.\n",
-   "image": "./images/vitri11.PNG",
-   "video": "./videos/11.mp4"
+   "image": "./asset/images/vitri/11.PNG",
+   "video": "./asset/videos/11.mp4"
  },
  {
    "STT": 12,
@@ -128,8 +128,8 @@
    "quymo": "55.0 HA",
    "chucnangquyhoach": "Quy hoạch đất công nghiệp",
    "chitieuquyhoach": "Xác định trong quá trình lập dự án.\n",
-   "image": "./images/vitri12.PNG",
-   "video": "./videos/12.mp4"
+   "image": "./asset/images/vitri/12.PNG",
+   "video": "./asset/videos/12.mp4"
  },
  {
    "STT": 13,
@@ -139,8 +139,8 @@
    "quymo": "380.0 HA",
    "chucnangquyhoach": "Quy hoạch khu công nghiệp 300ha và khu tái định cư và dân cư 80ha\n",
    "chitieuquyhoach": "Xác định trong quá trình lập dự án.\n",
-   "image": "./images/vitri13.PNG",
-   "video": "./videos/13.mp4"
+   "image": "./asset/images/vitri/13.PNG",
+   "video": "./asset/videos/13.mp4"
  },
  {
    "STT": 14,
@@ -150,8 +150,8 @@
    "quymo": "50.12 HA",
    "chucnangquyhoach": "Quy hoạch đất nhóm nhà ở kết hợp kinh tế vườn và đất cây xanh sử dụng công cộng",
    "chitieuquyhoach": "MĐXD: 5-20%.\nTầng cao: 1-3 tầng.\nHSSDĐ: 0,05-0,6",
-   "image": "./images/vitri14.PNG",
-   "video": "./videos/14.mp4"
+   "image": "./asset/images/vitri/14.PNG",
+   "video": "./asset/videos/14.mp4"
  },
  {
    "STT": 15,
@@ -161,8 +161,8 @@
    "quymo": "25.36 HA",
    "chucnangquyhoach": "Quy hoạch đất nhóm nhà ở kết hợp kinh tế vườn.",
    "chitieuquyhoach": "MĐXD: 20%.\nTầng cao: 1-3 tầng.\nHSSDĐ: 0,6",
-   "image": "./images/vitri15.PNG",
-   "video": "./videos/15.mp4"
+   "image": "./asset/images/vitri/15.PNG",
+   "video": "./asset/videos/15.mp4"
  },
  {
    "STT": 16,
@@ -172,8 +172,8 @@
    "quymo": "20.33 HA",
    "chucnangquyhoach": "Quy hoạch đất nhóm nhà ở kết hợp kinh tế vườn.",
    "chitieuquyhoach": "MĐXD: 20%.\nTầng cao: 1-3 tầng.\nHSSDĐ: 0,6",
-   "image": "./images/vitri16.PNG",
-   "video": "./videos/16.mp4"
+   "image": "./asset/images/vitri/16.PNG",
+   "video": "./asset/videos/16.mp4"
  },
  {
    "STT": 17,
@@ -183,8 +183,8 @@
    "quymo": "178.0 HA",
    "chucnangquyhoach": "Đất sản xuất nông nghiệp, đất dân cư nông thôn kết hợp sản xuất, đất công trình công cộng, đất công viên cây xanh và đất giáo dục.",
    "chitieuquyhoach": "MĐXD: 20-30%.\nTầng cao: 1-2 tầng.\nHSSDĐ: 0,6",
-   "image": "./images/vitri17.PNG",
-   "video": "./videos/17.mp4"
+   "image": "./asset/images/vitri/17.PNG",
+   "video": "./asset/videos/17.mp4"
  },
  {
    "STT": 18,
@@ -194,8 +194,8 @@
    "quymo": "171.0 HA",
    "chucnangquyhoach": "Quy hoạch đất dân cư nông thôn, dân cư nông thôn kết hợp sản xuất, đất cây xanh thể dục thể thao và đất nông nghiệp.\n",
    "chitieuquyhoach": "MĐXD: 20-30%.\nTầng cao: 1-2 tầng.\nHSSDĐ: 0,6",
-   "image": "./images/vitri18.PNG",
-   "video": "./videos/18.mp4"
+   "image": "./asset/images/vitri/18.PNG",
+   "video": "./asset/videos/18.mp4"
  },
  {
    "STT": 19,
@@ -205,8 +205,8 @@
    "quymo": "130.0 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất du lịch sinh thái",
    "chitieuquyhoach": "MĐXD: 20-30%.\nTầng cao: 1-2 tầng.\nHSSDĐ: 0,6",
-   "image": "./images/vitri19.PNG",
-   "video": "./videos/19.mp4"
+   "image": "./asset/images/vitri/19.PNG",
+   "video": "./asset/videos/19.mp4"
  },
  {
    "STT": 20,
@@ -216,8 +216,8 @@
    "quymo": "384.2 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất công viên thể dục thể thao (khu 184,2ha) và đất nông nghiệp (khu 200ha)\n",
    "chitieuquyhoach": "Xác định trong quá trình lập dự án",
-   "image": "./images/vitri20.PNG",
-   "video": "./videos/20.mp4"
+   "image": "./asset/images/vitri/20.PNG",
+   "video": "./asset/videos/20.mp4"
  },
  {
    "STT": 21,
@@ -227,8 +227,8 @@
    "quymo": "150 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất nông nghiệp",
    "chitieuquyhoach": "Xác định trong quá trình lập dự án",
-   "image": "./images/vitri21.PNG",
-   "video": "./videos/21.mp4"
+   "image": "./asset/images/vitri/21.PNG",
+   "video": "./asset/videos/21.mp4"
  },
  {
    "STT": 22,
@@ -238,8 +238,8 @@
    "quymo": "231 HA",
    "chucnangquyhoach": "Thuộc quy hoạch đất nông nghiệp",
    "chitieuquyhoach": "Xác định trong quá trình lập dự án",
-   "image": "./images/vitri22.PNG",
-   "video": "./videos/22.mp4"
+   "image": "./asset/images/vitri/22.PNG",
+   "video": "./asset/videos/22.mp4"
  },
  {
    "STT": 23,
@@ -249,7 +249,7 @@
    "quymo": "87.89 HA",
    "chucnangquyhoach": "Đất công viên cây xanh",
    "chitieuquyhoach": "MĐXD: 5%.\nTầng cao: 1 tầng.\nHSSDĐ: 0,05\n",
-   "image": "./images/vitri23.PNG",
-   "video": "./videos/23.mp4"
+   "image": "./asset/images/vitri/23.PNG",
+   "video": "./asset/videos/23.mp4"
  }
 ]
