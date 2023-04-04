@@ -1,0 +1,65 @@
+.PDcontainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50rem, 1fr));
+    gap: 1rem 1rem;
+    padding: 10px 20px 0px 20px
+  }
+  
+  .PDvid {
+    background: white;
+    box-shadow: 2px 4px 25px rgba(0, 0, 0, .1);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all .2s linear;
+    position: relative;
+    text-align: center;
+  }
+
+  .PDcard {
+    background-image: linear-gradient(120deg, #4184D1 0%, #51C3DD 100%);
+    box-shadow: 2px 4px 25px rgba(0, 0, 0, .1);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all .2s linear;
+    position: relative;
+    padding: 15px;
+    text-align: justify;
+  }
+
+  .PDcard h1,h2 {
+    padding-top: 0.5rem;
+    color: #fff;
+    margin-bottom: 0px;
+    position: relative;
+    font-size: 3.5vw;
+  }
+
+
+  .PDimg {
+    background: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  #videoProduct {
+      width: 100%;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 2px 4px 25px rgba(0, 0, 0, .1);
+  }
+
+  @media (max-width: 600px) {
+    .PDcontainer {
+        grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+      }
+      
+  }
+
+  @media (min-width: 600px) {
+    .PDcontainer {
+        grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+      }
+    .PDcard h1,h2 {
+    font-size: 1.5vw;
+  }
+  }
